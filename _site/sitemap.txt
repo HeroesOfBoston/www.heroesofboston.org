@@ -1,0 +1,12 @@
+
+http://www.heroesofboston.org/categories.html
+http://www.heroesofboston.org/sitemap.txt
+http://www.heroesofboston.org/index.html
+http://www.heroesofboston.org/tags.html
+http://www.heroesofboston.org/pages.html
+http://www.heroesofboston.org/archive.html
+http://www.heroesofboston.org/atom.xml
+http://www.heroesofboston.org/rss.xml
+
+http://www.heroesofboston.org/biographies/2013/04/15/dr-peter-fagenholz
+http://www.heroesofboston.org/lessons/2011/12/29/jekyll-introduction
