@@ -9,4 +9,3 @@ http://www.heroesofboston.org/atom.xml
 http://www.heroesofboston.org/rss.xml
 
 http://www.heroesofboston.org/biographies/2013/04/15/dr-peter-fagenholz
-http://www.heroesofboston.org/lessons/2011/12/29/jekyll-introduction
