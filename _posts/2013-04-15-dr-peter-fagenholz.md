@@ -10,4 +10,4 @@ tags : [biographies]
 
 <img src="/images/dr-peter-fagenholz.jpg" alt="Image of Dr. Peter Fagenholz">
 
-ABC News. (April 16, 2013). Blast patients will need multiple surgeries. In Blast patients will need multiple surgeries. Retrieved April 16, 2013, from http://www.abc.net.au/news/2013-04-16/no-minors-taken-to-massachusettes-hospital/4632378.
+<div class="citation">ABC News. (April 16, 2013). Blast patients will need multiple surgeries. In Blast patients will need multiple surgeries. Retrieved April 16, 2013, from http://www.abc.net.au/news/2013-04-16/no-minors-taken-to-massachusettes-hospital/4632378.</div>
