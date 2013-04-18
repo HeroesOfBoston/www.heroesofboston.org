@@ -92,6 +92,12 @@ ul.posts {
   margin-bottom: 2em;
 }
 
+.citation {
+  color: #aaa;
+  font-family: Monaco, "Courier New", monospace;
+  font-size: 80%;
+}
+
   .site .title a {
     color: #a00;
     text-decoration: none;
