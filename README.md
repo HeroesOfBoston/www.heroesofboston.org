@@ -28,3 +28,5 @@ Heroes include any person or group that responded in a time of crisis.  For exam
 
 [Google doc w/ notes](https://docs.google.com/document/d/1Vokwz3_HF_EK-WUxhoOf8N8AoMsc4XpXIVKLOkr-M_M/edit)
 
+**IRC channel**
+`#heroesofboston` on freenode
