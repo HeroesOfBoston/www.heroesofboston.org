@@ -10,4 +10,4 @@ title: Heroes of Boston
   {% endfor %}
 </ul>
 
-If you'd like to help please contribute to hero biographies at [GitHub repository](http://github.com/{{ site.author.github }}).
+If you'd like to help please contribute to hero profiles at [GitHub repository](http://github.com/{{ site.author.github }}).
