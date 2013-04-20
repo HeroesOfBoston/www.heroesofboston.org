@@ -3,6 +3,8 @@ layout: post
 category : biographies
 tags : [biographies]
 title: Dr. Peter Fagenholz
+image: /images/dr-peter-fagenholz.jpg
+image-thumb: /images/dr-peter-fagenholz-thumb.jpg
 ---
 {% include JB/setup %}
 

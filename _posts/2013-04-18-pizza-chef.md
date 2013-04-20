@@ -3,6 +3,7 @@ layout: post
 category : biographies
 tags : [biographies]
 title: Pizza Chef (name?)
+image-thumb: /images/not-available.jpg
 ---
 {% include JB/setup %}
 

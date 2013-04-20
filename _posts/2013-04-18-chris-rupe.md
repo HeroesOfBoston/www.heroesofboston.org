@@ -3,6 +3,8 @@ layout: post
 category : biographies
 tags : [biographies]
 title: Dr. Chris Rupe
+image: /images/dr-chris-rupe.jpg
+image-thumb: /images/dr-chris-rupe-thumb.jpg
 ---
 {% include JB/setup %}
 

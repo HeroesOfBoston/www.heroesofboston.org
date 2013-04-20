@@ -3,6 +3,8 @@ layout: post
 category : biographies
 tags : [biographies]
 title: Bruce Mendelsohn
+image: /images/bruce-mendelsohn.jpg
+image-thumb: /images/bruce-mendelsohn-thumb.jpg
 ---
 {% include JB/setup %}
 

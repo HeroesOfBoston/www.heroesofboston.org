@@ -3,6 +3,8 @@ layout: post
 category : biographies
 tags : [biographies]
 title: Richard DesLauriers
+image: /images/richard-deslauriers.jpg
+image-thumb: /images/richard-deslauriers-thumb.jpg
 ---
 {% include JB/setup %}
 

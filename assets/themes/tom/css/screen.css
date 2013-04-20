@@ -72,6 +72,42 @@ ul.posts {
     font-size: 80%;
   }
 
+.profiles {
+  padding: 20px;
+  margin-left: auto; margin-right: auto;  margin-top:50px;
+  /*background-color: #ffd7ce;*/
+  width: 480px; /*was 510*/
+  /*these two properties will be inherited by .portfolio h2 and .portfolio p */
+  font-family: 'GraublauWeb', arial, serif; 
+  text-align: center;
+}
+
+ul#grid {
+  padding: 0;
+  list-style: none;
+  margin: 20px auto 0;
+  width: 465px;  
+}
+
+#grid li {
+  float: left;
+  padding: 0;
+  margin: 0 5px 10px 5px;
+}
+
+#grid li img {
+  background-color: white;
+  padding: 7px; margin: 0;
+  border: 1px dotted #58595b;
+  width: 129px;
+  height: 145px;
+}
+
+.below {
+  position: absolute;
+  top: 1000px;
+}
+
 /*****************************************************************************/
 /*
 /* Site

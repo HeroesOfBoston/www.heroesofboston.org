@@ -3,6 +3,7 @@ layout: post
 category : narratives
 tags : [narratives,anonymous]
 title: Helping out in a crisis (anonymous spectator)
+image-thumb: /images/not-available.jpg
 ---
 {% include JB/setup %}
 

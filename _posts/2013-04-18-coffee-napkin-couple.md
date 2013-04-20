@@ -3,6 +3,7 @@ layout: post
 category : biographies
 tags : [biographies]
 title: Kurt Mias / Jessica Newman
+image-thumb: /images/not-available.jpg
 ---
 {% include JB/setup %}
 

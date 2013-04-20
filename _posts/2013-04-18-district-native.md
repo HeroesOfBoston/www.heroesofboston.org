@@ -3,6 +3,7 @@ layout: post
 category : biographies
 tags : [biographies]
 title: District native (name?)
+image-thumb: /images/not-available.jpg
 ---
 {% include JB/setup %}
 

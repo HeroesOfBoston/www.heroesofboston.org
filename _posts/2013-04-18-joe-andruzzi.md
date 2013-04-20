@@ -3,6 +3,8 @@ layout: post
 category : biographies
 tags : [biographies]
 title: Joe Andruzzi
+image: /images/joe-andruzzi.jpg
+image-thumb: /images/joe-andruzzi-thumb.jpg
 ---
 {% include JB/setup %}
 

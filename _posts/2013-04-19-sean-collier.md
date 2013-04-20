@@ -3,6 +3,8 @@ layout: post
 category : biographies
 tags : [biographies]
 title: Sean Collier
+image: /images/sean-collier.jpg
+image-thumb: /images/sean-collier-thumb.jpg
 ---
 {% include JB/setup %}
 
