@@ -1,7 +1,7 @@
 ---
 layout: post
-category : biographies
-tags : [biographies]
+category : heroes
+tags : [heroes]
 title: Carlos Arredondo
 image: /images/carlos-arredondo.jpg
 image-thumb: /images/carlos-arredondo-thumb.jpg

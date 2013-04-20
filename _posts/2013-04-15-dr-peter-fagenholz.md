@@ -1,7 +1,7 @@
 ---
 layout: post
-category : biographies
-tags : [biographies]
+category : heroes
+tags : [heroes]
 title: Dr. Peter Fagenholz
 image: /images/dr-peter-fagenholz.jpg
 image-thumb: /images/dr-peter-fagenholz-thumb.jpg

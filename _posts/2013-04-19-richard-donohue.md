@@ -1,7 +1,7 @@
 ---
 layout: post
-category : biographies
-tags : [biographies]
+category : heroes
+tags : [heroes]
 title: Richard Donohue
 image: /images/richard-donohue.jpg
 image-thumb: /images/richard-donohue-thumb.jpg

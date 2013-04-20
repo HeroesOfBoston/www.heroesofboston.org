@@ -1,7 +1,7 @@
 ---
 layout: post
-category : biographies
-tags : [biographies]
+category : heroes
+tags : [heroes]
 title: Tough Ruck (Sgt. Bernard Madore, 1st Lt. Steve Fiola, and Staff Sgt. Mark Welch)
 image: /images/tough-ruck.jpg
 image-thumb: /images/tough-ruck-thumb.jpg

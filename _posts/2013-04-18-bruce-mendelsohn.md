@@ -1,7 +1,7 @@
 ---
 layout: post
-category : biographies
-tags : [biographies]
+category : heroes
+tags : [heroes]
 title: Bruce Mendelsohn
 image: /images/bruce-mendelsohn.jpg
 image-thumb: /images/bruce-mendelsohn-thumb.jpg

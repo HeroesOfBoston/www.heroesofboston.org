@@ -1,7 +1,7 @@
 ---
 layout: post
-category : biographies
-tags : [biographies]
+category : heroes
+tags : [heroes]
 title: Dr. Chris Rupe
 image: /images/dr-chris-rupe.jpg
 image-thumb: /images/dr-chris-rupe-thumb.jpg

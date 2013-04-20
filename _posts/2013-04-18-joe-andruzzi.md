@@ -1,7 +1,7 @@
 ---
 layout: post
-category : biographies
-tags : [biographies]
+category : heroes
+tags : [heroes]
 title: Joe Andruzzi
 image: /images/joe-andruzzi.jpg
 image-thumb: /images/joe-andruzzi-thumb.jpg

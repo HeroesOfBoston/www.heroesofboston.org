@@ -1,7 +1,7 @@
 ---
 layout: post
-category : biographies
-tags : [biographies]
+category : heroes
+tags : [heroes]
 title: Richard DesLauriers
 image: /images/richard-deslauriers.jpg
 image-thumb: /images/richard-deslauriers-thumb.jpg
